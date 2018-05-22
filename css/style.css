@@ -11,22 +11,16 @@
     margin: 0 auto;
 }
 
-
 body
-{
-
-    font-family: tahoma;
-
-
-}
+{    font-family: tahoma;}
 
 .king
 {
-position: absolute;
-width: 1140px;
-top:50%;
-left:83%;
-transform: translate(-50%, -50%);
+position: relative;
+width:1000px;
+height:1000px;
+left:38%;
+top:100px;
 
 }
 
@@ -88,6 +82,7 @@ margin-top: 60px;
 width:70%;
 margin-left:15%;
 margin-bottom:50px;
+text-align: center;
 }
 
 
@@ -112,9 +107,6 @@ margin-bottom:50px;
 {
     margin-left: 55px;
 }
-
-
-
 
 .connect
 {
