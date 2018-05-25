@@ -29,7 +29,7 @@ header
 {
 background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://i.pinimg.com/564x/3b/13/97/3b13977d2b25dd0b3fef7f1b0cc15f4e.jpg");
 height:100vh;
-background-position: top;
+background-position: top right;
 background-size: cover;
 background-attachment: fixed;
 }
@@ -224,6 +224,14 @@ border-bottom:none;
   }
   .connect p{
 margin-left:15%;
+
+
+  }
+  .connect
+  {
+
+    background-position: top;
+
 
 
   }
