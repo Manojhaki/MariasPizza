@@ -12,7 +12,8 @@
 }
 
 body
-{    font-family: tahoma;}
+{    font-family: tahoma;
+}
 
 .king
 {
@@ -110,6 +111,7 @@ text-align: center;
 
 .connect
 {
+
     margin-top:80px;
     background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://i.pinimg.com/564x/4b/4f/19/4b4f195e3dd0c057bdb379a15158f500.jpg");
     padding-top:80px;
@@ -121,9 +123,11 @@ text-align: center;
 
 .connect p
 {
+
     color:white;
     line-height:25px;
-    text-align:justify;
+margin-left: 190px;
+    text-align: center;
     margin-top:40px;
 }
 
@@ -163,8 +167,73 @@ background-color: #9E2409;
 .information{
 margin-top:40px;
 }
-.subscribe{
 
-  margin-left: 30%;
+@media only screen and (min-width: 320px) and (max-width : 480px) {
+  header
+  {
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://s23209.pcdn.co/wp-content/uploads/2017/01/Chicken-Pesto-Pizza.jpg");
+  width: 480px;
+  height:480px;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  }
+  .king
+  {
+  position: relative;
+left:80px;
+top: 49px;
+  }
+  h1{
+position: absolute;
+
+  }
+  .main-nav
+  {
+  position: relative;
+
+  margin-top: 29px;
+
+  }
+
+  .main-nav li
+  {
+      display: block;
+      margin-left:120px;
+
+  }
+  .main-nav li a:hover
+  {
+      color:#FF4933;
+border-bottom:none;
+      transition:none;
+
+
+  }
+  .button{
+
+    position: relative;
+    color: pink;
+  }
+.maps{
+
+  margin-left:15%;
+  margin-bottom:20px;
+
+
+}
+  .maps iframe
+  {
+    width:300px;
+    height:200px;
+    margin-left:0px;
+    margin-bottom:20px;
+
+  }
+  .connect p{
+margin-left:15%;
+
+
+  }
 
 }
