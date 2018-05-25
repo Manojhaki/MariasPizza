@@ -27,9 +27,9 @@ top:150px;
 
 header
 {
-background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://s23209.pcdn.co/wp-content/uploads/2017/01/Chicken-Pesto-Pizza.jpg");
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://i.pinimg.com/564x/3b/13/97/3b13977d2b25dd0b3fef7f1b0cc15f4e.jpg");
 height:100vh;
-background-position: center;
+background-position: top;
 background-size: cover;
 background-attachment: fixed;
 }
@@ -169,20 +169,12 @@ margin-top:40px;
 }
 
 @media only screen and (min-width: 320px) and (max-width : 480px) {
-  header
-  {
-  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://s23209.pcdn.co/wp-content/uploads/2017/01/Chicken-Pesto-Pizza.jpg");
-  width: 480px;
-  height:480px;
-  background-position: center;
-  background-size: cover;
-  background-attachment: fixed;
-  }
+
   .king
   {
   position: relative;
 left:80px;
-top: 49px;
+top: 180px;
   }
   h1{
 position: absolute;
