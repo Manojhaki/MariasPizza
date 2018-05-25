@@ -29,7 +29,7 @@ header
 {
 background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://i.pinimg.com/564x/49/1a/4c/491a4cc42ddc81f94a53ff70d24c2f23.jpg");
 height:100vh;
-background-position: top;
+background-position: top right;
 background-size: cover;
 background-attachment: fixed;
 }
@@ -178,7 +178,7 @@ margin-top:40px;
 header{
   width: 100%;
   height: auto;
-  background-position: right;
+
 }
   .king
   {
