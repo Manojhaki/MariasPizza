@@ -42,4 +42,4 @@ THE WEBSITE ON AIR: https://manojhaki.github.io/MariasPizza/
 
 /* This website is for my uncle's business. He has commited alot to make a change. Looking at his dedication, I am inspired to help him out. What I know are few html and css concepts, if only this knowledge has helped me better his business I admire this knowledge. It made me think about the world of programming where possibilites are limitless, you only need to be inspired. */
 
-The official website is up and running in : www.selectmariaspiza.com
+The official website is up and running in : http://www.selectmariaspizza.com/
