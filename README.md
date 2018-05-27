@@ -37,3 +37,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 THE WEBSITE ON AIR: https://manojhaki.github.io/MariasPizza/
+
+/* Presonal Comment on the Website : */
+
+/* This website is for my uncle's business. He has commited alot to make a change. Looking at his dedication, I am inspired to help him out. What I know are few html and css concepts, if only this knowledge has helped me better his business I admire this knowledge. It made me think about the world of programming where possibilites are limitless, you only need to be inspired. */
+
+The official website is up and running in : www.selectmariaspiza.com
