@@ -134,9 +134,11 @@ margin-left: 190px;
 
 .maps
 {
+  position: relative;
   width:70%;
   margin-left:32%;
   margin-bottom:20px;
+  left:30px;
 
 }
 .button{
@@ -179,6 +181,7 @@ margin-top:40px;
 header{
   width: 100%;
  height: auto;
+ background-size: auto;
 
 }
   .king
@@ -231,6 +234,7 @@ border-bottom:none;
 }
   .maps iframe
   {
+    position: relative;
     width:300px;
     height:200px;
     margin-left:0px;
