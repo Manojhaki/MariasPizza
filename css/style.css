@@ -180,7 +180,7 @@ margin-top:40px;
 @media only screen and (min-width: 320px) and (max-width : 480px) {
 header{
   width: 100%;
- height: auto;
+ height: 600px;
  background-size: auto;
 
 }
@@ -227,7 +227,7 @@ border-bottom:none;
   }
 .maps{
 
-  margin-left:10%;
+  margin-left:18px;
   margin-bottom:20px;
 
 
@@ -246,7 +246,7 @@ margin-left:15%;
   }
   .connect
   {
-    background-position: top;
+    background-size: contain;
   }
 
 }
